@@ -15,7 +15,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    font-family:;
+   
     background-color: cornflowerblue;
     
     
@@ -47,17 +47,18 @@ button{
     font-size: 20px;
     margin: 10px 5px;
     border: none;
-    border-radius: 5px;
+    border-radius: 100px;
     float:left;
     background-color: rgb(0, 0, 0);
     color:rgb(212, 187, 187);
+    font-family: guilherme;
     
 }
 .operador{
     background-color:rgb(0, 0, 0);
 }
 button:hover{
-    cursor: pointer;
+    cursor:grab;
     background-color: gray;
     
 
